@@ -1,9 +1,8 @@
 Dataset/
 Missile_Jet_IR_Footprint_Analyzer/merged_yolo_dataset/
 Missile_Jet_IR_Footprint_Analyzer/datasets/
-Missile_Jet_IR_Footprint_Analyzer/models/
-Missile_Jet_IR_Footprint_Analyzer/outputs/
-Missile_Jet_IR_Footprint_Analyzer/yolov8n.pt
 __pycache__/
 *.pyc
 .DS_Store
+Missile_Jet_IR_Footprint_Analyzer/.venv/
+.venv/
